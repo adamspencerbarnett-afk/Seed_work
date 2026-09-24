@@ -1,7 +1,5 @@
 # Seedwork 0.7.0
 
-Seedwork v0.7.0
-
 An AI-assisted 3D world-building kit by Adam S. Barnett.
 
 Seedwork helps you create game worlds without starting from scratch. It includes a terrain editor, model-building tools, reusable assets, weather and seasons, a playable preview, and project saving and export.
